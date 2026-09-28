@@ -1,0 +1,6 @@
+{
+  "name": "Real Impact Global (RiG)",
+  "description": "Empowering lives through premium natural wellness solutions and an empowering digital business ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
